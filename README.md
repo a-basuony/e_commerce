@@ -6,6 +6,10 @@ This project is an eCommerce website built using HTML, CSS, and JavaScript. It f
 
 Check out the live demo [here](https://a-basuony.github.io/ecommerce/).
 
+## Repository
+
+The project repository is available [here](https://github.com/a-basuony/ecommerce).
+
 ## Features
 
 - **Product Catalog:** Browse through a variety of products.
